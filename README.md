@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Munayer
-- 👀 I’m interested in Personal Knowledge Management and getting to know programming and coding
-- 🌱 I’m currently learning how to use Obsidian and Python
-- 💞️ I’m looking to collaborate on my personal studies and personal growth for labor improvement
-- 📫 How to reach me ...
-
-<!---
-Munayer/Munayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Greetings, everyone who encounters my GitHub account! I’m Bernardo Munayer
+- I’m interested in Personal Knowledge Management and Systems Management
+- I’m currently learning how to use Data Science and Database Management Systems for projects reconciling applied social sciences and technical sciences
+- I’m looking to collaborate on personal studies and collective projects for research and development with focuses on applied social sciences, with the possibility of impact on other technical areas
+- How to reach me, by e-mail bernardomunayer@proton.me
