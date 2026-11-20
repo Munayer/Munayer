@@ -1,4 +1,4 @@
 - Greetings, everyone who encounters my GitHub account! I’m Bernardo Máximo Munayer. Personally from the applied social sciences area, specifically Law, I have a great interest in Personal Knowledge Management and Systems thinking.
 - I’m currently learning how to use Data Science and Database Management Systems for projects reconciling applied social sciences and technical sciences, looking to collaborate on personal studies and collective projects for research and development, to solve different problems in society and the possibility to impact other technical areas positively
 - How to reach me, by e-mail, bernardomunayer@proton.me
-- I have a personal website, bernardomunayer.com, where you can find out more about other informatino regarding myself.
+- I have a personal website, www.bernardomunayer.com, where you can find out more about other informatino regarding myself.
